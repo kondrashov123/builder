@@ -1,0 +1,13 @@
+
+.row{
+	display: flex;
+}
+
+.spase-between{
+	display: flex;
+	justify-content: space-between;
+}
+.spase-around{
+	display: flex;
+	justify-content: space-around;
+}
